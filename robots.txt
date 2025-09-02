@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cakelane.tech/sitemap.xml
